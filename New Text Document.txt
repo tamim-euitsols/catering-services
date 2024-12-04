@@ -1,0 +1,23 @@
+project requirement 
+using bootstrap ()
+
+home page:
+1 banner (full wide)
+2.4 iteam (picture and details)
+3. customers feedback
+4. gallery(minimum 6 image)
+
+about page:
+1 staff profile with text( 3 staff)
+2. about company with image
+
+contact page:
+1. contact form
+2.contact information ( address,email, phone number)
+
+faq page:
+1. beautiful collapsible 5 question & answare using bootstrap.
+
+
+
+
